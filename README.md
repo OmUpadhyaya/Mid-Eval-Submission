@@ -1,3 +1,3 @@
 # BCS Mid-Evaluation Project Submission
 
-**Contributors:** Milind Bathla, Md Arham, Pari Aggarwal and Om Upadhyaya
+**Contributors:** Milind Bathla, Md Arham, Pari Aggarwal, Aashir and Om Upadhyaya
